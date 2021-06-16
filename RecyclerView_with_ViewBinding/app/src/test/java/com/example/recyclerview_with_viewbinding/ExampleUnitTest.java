@@ -1,6 +1,6 @@
 package com.example.recyclerview_with_viewbinding;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import static org.junit.Assert.*;
 
